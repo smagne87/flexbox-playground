@@ -67,7 +67,7 @@ I created this project to both reinforce my own understanding of CSS Flexbox and
 
 ## 🌐 Live Demo
 
-👉 [https://flexbox-playground.vercel.app](https://flexbox-playground.vercel.app)
+👉 [https://flexbox-playground-zeta.vercel.app/](https://flexbox-playground-zeta.vercel.app/)
 
 ## 📄 License
 
